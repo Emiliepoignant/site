@@ -1,0 +1,30 @@
+body{
+	color: lightyellow ;
+	background-color: rgb(201, 147, 147) ;
+	font-family: cursive ;
+	font-size: 15px ;
+	line-height: 20px ;
+	text-align: center ;
+}
+
+h1{
+	font-variant: small-caps ;
+	letter-spacing: 1px ;
+	font-size: 40px ;
+}
+
+p{
+	padding: 5px 200px;
+}
+
+img{
+	border-radius: 10px ;
+}
+
+a{
+	color: lightyellow ;
+}
+
+a:hover{
+	color: pink ;
+}
